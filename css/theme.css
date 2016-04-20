@@ -191,6 +191,10 @@ header {
 .heading h3 {
 	font-size:16px;
 	line-height:1.7;
+	text-align: center;
+}
+
+.aboutus h3 {
 	text-align: left;
 	text-indent: 2em;
 }
